@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TileCollisionSystem",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TileCollisionSystem",
+  "parent":{
+    "name":"GMTileTest",
+    "path":"GMTileTest.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
