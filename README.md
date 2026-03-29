@@ -1,0 +1,2 @@
+一些有用的gamemaker脚本
+1.让tilemap也有碰撞的脚本
